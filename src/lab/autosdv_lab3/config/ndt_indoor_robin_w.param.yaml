@@ -71,7 +71,7 @@
       resolution: 1.0  # Lab 3, provisional (outdoor 2.0)
 
       # The number of iterations required to calculate alignment
-      max_iterations: 30
+      max_iterations: 60
 
       # Number of threads used for parallel computing
       num_threads: 4
